@@ -1,7 +1,8 @@
 # ThrowableSummon
 ## Palworld Throwable Sphere Summon Mod
 
-**A client-side mod for Palworld that allows you to summon and throw spheres to spawn your Pals in a fun, interactive way.
+**A client-side mod for Palworld that allows you to summon and throw spheres to spawn your Pals in a fun, 
+interactive way.
 main.lua = Proper Mod!**
 
 - **Istall Path:
