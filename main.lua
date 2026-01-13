@@ -60,7 +60,7 @@ end
 -- MOD CODE (UNCHANGED)
 -- =========================
 
-local ModName = "Dual-Throw_SphereSummon"
+local ModName = "ThrowableSummon"
 
 local WorldIsActive, ModInitialized = false, false
 local IsSummoning, OtomoThrowActive, sphereActor = false, false, nil
