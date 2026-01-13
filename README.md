@@ -46,6 +46,11 @@ I’ve been tinkering with this mod to figure out how to make it work on both si
 - If Scroll Wheeled to get weapons [Start Loop From Step 1 - 4 ] For the Sphere In Hand again
 - Your Alternative What you Swapped [Default Palworld Summon Keybind:] [Into Z] 
 
+- Cant Re Equip Sphere if Same Pet is Selected Via 1 - 2 that you have Summoned! 
+- Example: I Spwaned NiteWing, If i Scroll Wheel and get a gun.. and then want the Sphere you must have a Different one Selected
+- ONLY WAY AROUND THAT (Press your Default Set Palworld Keybind you Picked for Spawning/Recalling Pals. Recall NightWing
+(i use Z or I) - (Depends What im Doing)
+
 - Works on a dedicated server without lag
 
 ⚠️ The summon key (E) cannot currently be the same as the Sphere Summon Key must assign a different key. ⚠️
