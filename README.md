@@ -4,6 +4,9 @@
 A client-side mod for Palworld that allows you to summon and throw spheres to spawn your Pals in a fun, interactive way.
 main.lua = Proper Mod!
 
+- Istall Path:
+"Palworld\Pal\Binaries\Win64\ue4ss\Mods\"
+Make Folder Named - **ThrowableSummon** - Drag main.lua into it
 
 Testing-main.lua = Walk Speed Playing with..(Dont Need to Worry Unless Dev Helping)
 ---
